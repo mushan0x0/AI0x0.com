@@ -32,7 +32,7 @@
     "@typescript-eslint/eslint-plugin": "^5.51.0",
     "@typescript-eslint/parser": "^5.51.0",
     "dumi": "^2.0.2",
-    "dumi-theme-antd-style": "^0.9.12",
+    "dumi-theme-antd-style": "^0.13.0",
     "eslint": "^8.34.0",
     "eslint-config-prettier": "^8.6.0",
     "eslint-config-react-app": "^7.0.1",
