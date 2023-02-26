@@ -5,6 +5,7 @@
   "license": "MIT",
   "scripts": {
     "build": "dumi build",
+    "deploy": "gh-pages -d dist",
     "dev": "dumi dev",
     "postinstall": "husky install",
     "lint-staged": "lint-staged",
@@ -39,6 +40,7 @@
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
+    "gh-pages": "^5.0.0",
     "husky": "^8.0.3",
     "lint-staged": "^13.1.1",
     "prettier": "^2.8.4",

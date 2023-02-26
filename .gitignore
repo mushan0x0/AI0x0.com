@@ -3,3 +3,4 @@ node_modules
 .dumi/tmp-production
 .DS_Store
 .idea
+dist
