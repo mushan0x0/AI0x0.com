@@ -1,0 +1,50 @@
+{
+  "name": "ai0x0.com",
+  "version": "0.0.1",
+  "description": "AI 0x0 site",
+  "license": "MIT",
+  "scripts": {
+    "build": "dumi build",
+    "dev": "dumi dev",
+    "postinstall": "husky install",
+    "lint-staged": "lint-staged",
+    "prepare": "husky install && dumi setup",
+    "start": "npm run dev"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "lint-staged": {
+    "*.{md,json}": [
+      "prettier --write --no-error-on-unmatched-pattern"
+    ]
+  },
+  "dependencies": {
+    "@ant-design/icons": "^5.0.1",
+    "antd": "^5.2.1"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.1.2",
+    "@commitlint/config-conventional": "^17.1.0",
+    "@typescript-eslint/eslint-plugin": "^5.51.0",
+    "@typescript-eslint/parser": "^5.51.0",
+    "dumi": "^2.0.2",
+    "dumi-theme-antd-style": "^0.9.12",
+    "eslint": "^8.34.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-config-react-app": "^7.0.1",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "husky": "^8.0.3",
+    "lint-staged": "^13.1.1",
+    "prettier": "^2.8.4",
+    "pretty-quick": "^3.1.3"
+  },
+  "authors": [
+    "mushan0x0@gmail.com"
+  ]
+}
