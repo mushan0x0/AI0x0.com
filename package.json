@@ -4,7 +4,7 @@
   "description": "AI 0x0 site",
   "license": "MIT",
   "scripts": {
-    "build": "dumi build",
+    "build": "dumi build && cp CNAME dist",
     "deploy": "gh-pages -d dist",
     "dev": "dumi dev",
     "postinstall": "husky install",
@@ -31,7 +31,7 @@
     "@commitlint/config-conventional": "^17.1.0",
     "@typescript-eslint/eslint-plugin": "^5.51.0",
     "@typescript-eslint/parser": "^5.51.0",
-    "dumi": "^2.0.2",
+    "dumi": "^2.1.14",
     "dumi-theme-antd-style": "^0.13.0",
     "eslint": "^8.34.0",
     "eslint-config-prettier": "^8.6.0",
