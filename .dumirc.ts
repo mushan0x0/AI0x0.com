@@ -1,8 +1,8 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  base: '/AI0x0.com/',
-  publicPath: '/AI0x0.com/',
+  // base: '/AI0x0.com/',
+  // publicPath: '/AI0x0.com/',
   themeConfig: {
     name: 'AI 0x0',
     prefersColor: { default: 'dark', switch: false },
