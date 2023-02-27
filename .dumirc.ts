@@ -3,8 +3,9 @@ import { defineConfig } from 'dumi';
 export default defineConfig({
   // base: '/AI0x0.com/',
   // publicPath: '/AI0x0.com/',
-  favicon:
+  favicons: [
     'https://bojuematerial-prudcut-public.oss-cn-guangzhou.aliyuncs.com/other/logo.png',
+  ],
   themeConfig: {
     name: 'AI 0x0',
     prefersColor: { default: 'dark', switch: false },
