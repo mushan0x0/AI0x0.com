@@ -18,32 +18,39 @@ import {
   GithubOutlined,
   HistoryOutlined,
   IssuesCloseOutlined,
+  MailOutlined,
+  MessageOutlined,
+  WechatOutlined,
 } from '@ant-design/icons';
 import { siteTitleSel, useSiteStore } from 'dumi-theme-antd-style/dist/store';
 
 const footer = [
-  // {
-  //   title: '社区',
-  //   items: [
-  //     {
-  //       icon: <QqOutlined />,
-  //       title: 'QQ 群',
-  //       url: 'http://medium.com/ant-design/',
-  //       openExternal: true,
-  //     },{
-  //       icon: <WechatOutlined />,
-  //       title: '微信群',
-  //       url: 'http://medium.com/ant-design/',
-  //       openExternal: true,
-  //     },
-  //     {
-  //       icon: <MailOutlined />,
-  //       title: '与我联系',
-  //       url: 'http://medium.com/ant-design/',
-  //       openExternal: true,
-  //     },
-  //   ],
-  // },
+  {
+    title: '与我联系',
+    items: [
+      {
+        icon: <WechatOutlined />,
+        title: '微信：OTZ-QAQ',
+        // url: 'http://medium.com/ant-design/',
+        // openExternal: true,
+      },
+      {
+        icon: <MailOutlined />,
+        title: '邮箱：mushan0x0@gmail.com',
+      },
+    ],
+  },
+  {
+    title: '社区',
+    items: [
+      {
+        icon: <MessageOutlined />,
+        title: '讨论',
+        url: 'https://github.com/mushan0x0/AI0x0.com/discussions',
+        openExternal: true,
+      },
+    ],
+  },
   {
     title: '帮助',
     items: [
