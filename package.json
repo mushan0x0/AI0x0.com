@@ -24,7 +24,8 @@
   },
   "dependencies": {
     "@ant-design/icons": "^5.0.1",
-    "antd": "^5.2.1"
+    "antd": "^5.2.1",
+    "js-yaml": "^4.1.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.1.2",
