@@ -18,13 +18,6 @@ async function getLatestVersion(): Promise<string> {
 
 // 获取适合当前平台的下载链接
 function getDownloadLink(downloadUrls: Record<string, string>): string {
-  if (osName !== 'mac') {
-    alert(
-      '目前仅支持Mac，您的系统即将上线，可以点击网页下方与我联系参与内测！',
-    );
-    return '';
-  }
-
   return downloadUrls[osName];
 }
 
@@ -39,6 +32,12 @@ function downloadFile(url: string): void {
 
 // 示例用法
 export async function downloadLatestPackage() {
+  if (osName !== 'mac') {
+    alert(
+      '目前仅支持Mac，您的系统即将上线，可以点击网页下方与我联系参与内测！',
+    );
+    return '';
+  }
   const version = (await getLatestVersion()).replace('v', '');
   const downloadUrls = {
     // win: `https://github.com/${repoUrl}/releases/download/${version}/AI-0x0_${version.replace('v', '')}.exe`,
