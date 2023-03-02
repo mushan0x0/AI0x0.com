@@ -1,9 +1,7 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  ...(process.env.NODE_ENV === 'development'
-    ? {}
-    : { ssr: { platform: 'vercel' } }),
+  ...(process.env.NODE_ENV === 'development' ? {} : { ssr: {} }),
   exportStatic: {
     extraRoutePaths: ['/'],
   },
