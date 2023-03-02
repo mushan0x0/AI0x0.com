@@ -1,7 +1,12 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  // ...(process.env.NODE_ENV === 'development' ? {} : { ssr: {} }),
+  ...(process.env.NODE_ENV === 'development'
+    ? {}
+    : { ssr: { platform: 'vercel' } }),
+  exportStatic: {
+    extraRoutePaths: ['/'],
+  },
   favicons: [
     'https://bojuematerial-prudcut-public.oss-cn-guangzhou.aliyuncs.com/other/logo.png',
   ],
