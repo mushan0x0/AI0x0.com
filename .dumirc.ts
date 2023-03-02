@@ -2,6 +2,7 @@ import { defineConfig } from 'dumi';
 
 export default defineConfig({
   ...(process.env.NODE_ENV === 'development' ? {} : { ssr: {} }),
+  plugins: ['./umi-plugin'],
   exportStatic: {
     extraRoutePaths: ['/'],
   },
