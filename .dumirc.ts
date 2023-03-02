@@ -1,8 +1,7 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  // base: '/AI0x0.com/',
-  // publicPath: '/AI0x0.com/',
+  ...(process.env.NODE_ENV === 'development' ? {} : { ssr: {} }),
   favicons: [
     'https://bojuematerial-prudcut-public.oss-cn-guangzhou.aliyuncs.com/other/logo.png',
   ],

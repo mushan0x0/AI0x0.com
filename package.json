@@ -7,7 +7,7 @@
     "build": "dumi build && cp CNAME dist",
     "deploy": "gh-pages -d dist",
     "dev": "dumi dev",
-    "postinstall": "husky install",
+    "postinstall": "patch-package && husky install",
     "lint-staged": "lint-staged",
     "prepare": "husky install && dumi setup",
     "start": "npm run dev"
@@ -44,6 +44,7 @@
     "gh-pages": "^5.0.0",
     "husky": "^8.0.3",
     "lint-staged": "^13.1.1",
+    "patch-package": "^6.5.1",
     "prettier": "^2.8.4",
     "pretty-quick": "^3.1.3"
   },
