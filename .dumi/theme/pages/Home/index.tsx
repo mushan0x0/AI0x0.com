@@ -92,15 +92,21 @@ const Home: FC = memo(() => {
     const downloadButton = document.querySelector<HTMLDivElement>(
       '.site-btn-round.site-btn-primary.site-btn-lg',
     );
+    const fn = async () => {
+      if (!downloadButton) return;
+      downloadButton.innerText = '下载中';
+      downloadButton.style.pointerEvents = 'none';
+      await downloadLatestPackage();
+      downloadButton.innerText = '下载';
+      downloadButton.style.pointerEvents = 'auto';
+    };
     if (downloadButton) {
-      downloadButton.addEventListener('click', async () => {
-        downloadButton.innerText = '下载中';
-        downloadButton.style.pointerEvents = 'none';
-        await downloadLatestPackage();
-        downloadButton.innerText = '下载';
-        downloadButton.style.pointerEvents = 'auto';
-      });
+      downloadButton.addEventListener('click', fn);
     }
+    return () => {
+      if (!downloadButton) return;
+      downloadButton.removeEventListener('click', fn);
+    };
   }, []);
 
   return (

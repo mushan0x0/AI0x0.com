@@ -28,6 +28,7 @@ function downloadFile(url: string): void {
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);
+  alert('即将开始下载，可以点击网页下方与我联系参与更多功能内测！');
 }
 
 // 示例用法
