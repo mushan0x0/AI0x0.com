@@ -2,6 +2,9 @@ import { IApi } from 'umi';
 
 export default (api: IApi) => {
   api.modifyHTML(($) => {
+    $('header').append(
+      `<meta name="baidu-site-verification" content="codeva-rZnEgfEQeS" />`,
+    );
     $('#root').append(`
       <style>
         body,
