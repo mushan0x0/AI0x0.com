@@ -8,10 +8,12 @@ const osName = /win/.test(platform)
   ? 'mac'
   : 'linux';
 
+const oss = 'https://ai0x0-track.oss-cn-beijing.aliyuncs.com';
+
 // 获取 Git 仓库最新版本信息
 async function getLatestVersion(): Promise<string> {
   const response = await axios.get(
-    `https://bojuematerial-prudcut-public.oss-cn-guangzhou.aliyuncs.com/other/versions/latest-${osName}.yml`,
+    `${oss}/versions/latest${osName === 'mac' ? '-mac' : ''}.yml`,
   );
   return YAML.parse(response.data).version;
 }
@@ -28,14 +30,16 @@ function downloadFile(url: string): void {
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);
-  alert('即将开始下载，可以点击网页下方与我联系参与更多功能内测！');
+  alert(
+    '即将开始下载，目前是公测阶段，点击网页下方与我联系，获取更多新版信息！',
+  );
 }
 
 // 示例用法
 export async function downloadLatestPackage() {
-  if (osName !== 'mac') {
+  if (!['mac', 'win'].includes(osName)) {
     alert(
-      '目前仅支持Mac，您的系统即将上线，可以点击网页下方与我联系参与内测！',
+      '暂不支持您的系统，您的系统即将上线，可以点击网页下方与我联系参与内测！',
     );
     return '';
   }
@@ -44,8 +48,8 @@ export async function downloadLatestPackage() {
     // win: `https://github.com/${repoUrl}/releases/download/${version}/AI-0x0_${version.replace('v', '')}.exe`,
     // mac: `https://github.com/${repoUrl}/releases/download/${version}/AI-0x0_${version.replace('v', '')}.dmg`,
     // linux: `https://github.com/${repoUrl}/releases/download/${version}/AI-0x0_${version.replace('v', '')}-linux-x64.tar.gz`,
-    win: `https://bojuematerial-prudcut-public.oss-cn-guangzhou.aliyuncs.com/other/versions/AI%200x0_${version}.exe`,
-    mac: `https://bojuematerial-prudcut-public.oss-cn-guangzhou.aliyuncs.com/other/versions/AI%200x0_${version}.dmg`,
+    win: `${oss}/versions/AI%200x0_${version}.exe`,
+    mac: `${oss}/versions/AI%200x0_${version}.dmg`,
     // linux: `https://github.com/${repoUrl}/releases/download/${version}/AI-0x0_${version.replace('v', '')}-linux-x64.tar.gz`,
   };
   const downloadLink = getDownloadLink(downloadUrls);
