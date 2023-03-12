@@ -129,12 +129,12 @@ const Home: FC = memo(() => {
               overflow: 'hidden',
               objectFit: 'cover',
             }}
-            src="https://bojuematerial-prudcut-public.oss-cn-guangzhou.aliyuncs.com/other/pc.mov"
+            src="https://ai0x0-track.oss-cn-beijing.aliyuncs.com/medias/pc.mov"
           />
           <Center style={{ height: 400 }}>
             <img
               width={200}
-              src="https://bojuematerial-prudcut-public.oss-cn-guangzhou.aliyuncs.com/other/logo.png"
+              src="https://ai0x0-track.oss-cn-beijing.aliyuncs.com/medias/logo.png"
               alt=""
             />
             <Hero
