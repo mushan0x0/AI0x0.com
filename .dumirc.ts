@@ -6,13 +6,11 @@ export default defineConfig({
   exportStatic: {
     extraRoutePaths: ['/'],
   },
-  favicons: [
-    'https://bojuematerial-prudcut-public.oss-cn-guangzhou.aliyuncs.com/other/logo.png',
-  ],
+  favicons: ['https://ai0x0-track.oss-cn-beijing.aliyuncs.com/medias/logo.png'],
   themeConfig: {
     name: 'AI 0x0',
     prefersColor: { default: 'dark', switch: false },
-    logo: 'https://bojuematerial-prudcut-public.oss-cn-guangzhou.aliyuncs.com/other/logo.png',
+    logo: 'https://ai0x0-track.oss-cn-beijing.aliyuncs.com/medias/logo.png',
     github: 'https://github.com/mushan0x0/ai0x0.com',
   },
 });
