@@ -4,13 +4,8 @@ export default defineConfig({
   ...(process.env.NODE_ENV === 'development'
     ? {}
     : {
-        ssr: {
-          platform: 'vercel',
-        },
+        ssr: {},
       }),
-  apiRoute: {
-    platform: 'vercel',
-  },
   plugins: ['./umi-plugin'],
   exportStatic: {
     extraRoutePaths: ['/'],
