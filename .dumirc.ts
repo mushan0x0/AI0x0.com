@@ -1,7 +1,16 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  ...(process.env.NODE_ENV === 'development' ? {} : { ssr: {} }),
+  ...(process.env.NODE_ENV === 'development'
+    ? {}
+    : {
+        ssr: {
+          platform: 'vercel',
+        },
+      }),
+  apiRoute: {
+    platform: 'vercel',
+  },
   plugins: ['./umi-plugin'],
   exportStatic: {
     extraRoutePaths: ['/'],
