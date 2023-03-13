@@ -6,6 +6,9 @@ export default defineConfig({
     : {
         ssr: {},
       }),
+  apiRoute: {
+    platform: 'vercel',
+  },
   plugins: ['./umi-plugin'],
   exportStatic: {
     extraRoutePaths: ['/'],
