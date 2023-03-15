@@ -30,9 +30,15 @@ function downloadFile(url: string): void {
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);
-  alert(
-    '即将开始下载，目前是公测阶段，点击网页下方与我联系，获取更多新版信息！',
-  );
+  if (osName === 'win') {
+    alert(
+      '目前是公测阶段，win程序会提示有风险！欢迎点击网页下方与我联系，获取更多新版信息！',
+    );
+  } else {
+    alert(
+      '即将开始下载，目前是公测阶段，点击网页下方与我联系，获取更多新版信息！',
+    );
+  }
 }
 
 // 示例用法
