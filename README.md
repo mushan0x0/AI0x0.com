@@ -42,6 +42,7 @@ AI 0x0是一个桌面端的多模态多模型通用型AI生成助手应用，支
 - 🏞️ OCR 图片识别，将图片文字填充到输入框 (Mac: <kbd>⌥</kbd>+<kbd>E</kbd> Win: <kbd>Alt</kbd>+<kbd>3</kbd>)
 - 🥳 承诺永久免费开放除 Chat0x0 以外的语言模型
 
+
 ## 💪 支持模型
 
 目前AI 0x0支持以下几种模型：
@@ -56,6 +57,15 @@ AI 0x0是一个桌面端的多模态多模型通用型AI生成助手应用，支
 | BaiChat | 不支持 | GPT-3.5 | 免费 | 不支持 | 是 |
 | 文心一言 | 不支持 | 文心一言 | 免费 | 支持 | 否 |
 
+## 🎬 功能预览视频
+
+<div align="center">
+
+**无限页面长度内容总结**
+
+https://user-images.githubusercontent.com/29084441/236841065-db6fe6d1-a4c3-4128-b483-d4c5eddad6e6.mp4
+
+</div>
 
 ## 🪲 问题反馈
 
