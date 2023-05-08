@@ -4,6 +4,8 @@
 
 **如果你是 2023-05-08 13:57 之前更新或者下载的版本，建议在 ai0x0.com 重新下载安装最新的包**
 
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/29084441/236773164-a00b65d3-06b6-42fb-898b-b77f5ad45247.png">
+
 ## Chrome 更新时间 2023-05-08 13:57
 
 [安装教程](https://www.jianshu.com/p/4f1fa54a5501)
