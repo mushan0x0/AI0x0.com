@@ -2,7 +2,7 @@
 <div align="center">
   <img width="200" src="https://ai0x0-track.oss-cn-beijing.aliyuncs.com/medias/logo.png?site">
   <h1>AI 0x0 🤖️</h1>
-  <p>一个多模态多模型通用型的全能AI查询生成桌面悬浮助手应用，支持 MacOS 和 Windows，可在任意桌面软件使用 AI 能力。</p>
+  <p>一个多模态多模型通用型的全能 AI 查询生成桌面悬浮助手应用，支持 MacOS 和 Windows，可在任意桌面软件使用 AI 能力。</p>
   <p>
     <a href="https://github.com/mushan0x0/AI0x0.com/releases"><img src="https://img.shields.io/github/v/release/mushan0x0/AI0x0.com"></a>
     <a href="https://github.com/mushan0x0/AI0x0.com"><img src="https://img.shields.io/github/downloads/mushan0x0/AI0x0.com/total"></a>
@@ -13,7 +13,7 @@
 
 ## 😉 介绍
 
-AI 0x0是一个桌面端的多模态多模型通用型AI生成助手应用，支持在mac端和win端安装使用。它可以让您在任意桌面软件上使用AI能力来查询生成文本、图片、音频和视频等多种模态数据，帮助您更高效地完成工作。
+AI 0x0是一个桌面端的多模态多模型通用型AI生成助手应用，支持在 mac 端和 win 端安装使用。它可以让您在任意桌面软件上使用 AI 能力来查询生成文本、图片、音频和视频等多种模态数据，帮助您更高效地完成工作。
 
 > 0x0是一个颜文字表情，同时也是16进制中的数字，最重要的是0x0还象征着无限♾️️。
 
