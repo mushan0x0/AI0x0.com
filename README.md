@@ -31,13 +31,13 @@ AI 0x0是一个桌面端的多模态多模型通用型AI生成助手应用，支
 - 📁 收藏对话，将你觉得有价值的对话内容进行收藏，随时翻看
 - 📦 预设包，有官方和社区发布的一整套预设能力，解决各种场景问题
 - ⚡️ 网络加速，开启后直接访问 ChatGPT 等国外 AI 服务
-- 🔍 查询模式，不用离开当前使用的软件就可以使用AI查询信息
+- 🔍 查询模式，不用离开当前使用的软件就可以使用 AI 查询信息
 - ⌨️ 输入模式，可以在任意软件的任意输入框自动输入 AI 生成内容
 - 🖱️ 鼠标随航，鼠标的一支强大的随航舰队，应对无从下手的任意困难
 - ⏭ 深度定制 [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) 的 Chat0x0 快捷唤起对话框 (Mac: <kbd>⌥</kbd>+<kbd>W</kbd> Win: <kbd>Alt</kbd>+<kbd>2</kbd>)
-- 📖 支持全格式文库，让AI从你的文库读取信息来完成你的需求
+- 📖 支持全格式文库，让 AI 从你的文库读取信息来完成你的需求
 - 🛜 联网搜索，支持联网搜索获取实时内容，并且给出引用连接
-- 🔈 语音播报，可以语言播报查询结果和生成的音频内容
+- 🔈 语音播报，可以语音播报查询结果和生成的音频内容
 - 🗣️ 语音识别，在设置里设置了语音语言和快捷键后可以通过语音跟 AI 沟通
 - 🧩 应用插件，打通不同应用的内容壁垒，比如使用了浏览器插件后可以实现跟浏览器对话
 - 🪆 多模型，支持低成本随时适配市面上任意好用的语言模型
@@ -81,6 +81,10 @@ https://user-images.githubusercontent.com/29084441/236856226-f9ccd522-064e-49b7-
 
 https://user-images.githubusercontent.com/29084441/236859882-e23bc8d1-05c4-4703-92ea-e8a312a250b7.mp4
 
+**联网和文库关键词搜索**
+
+https://user-images.githubusercontent.com/29084441/236873637-297e3629-f398-45c2-b0ec-c7422aa8c12b.mp4
+
 </div>
 
 ## 🐞 问题反馈
@@ -89,4 +93,4 @@ https://user-images.githubusercontent.com/29084441/236859882-e23bc8d1-05c4-4703-
 
 ---
 
-AI 0x0 是一款由 [MuShan0x0](https://github.com/mushan0x0) 开发的闭源软件，该项目仅用来发布版本、存放文档和收集问题，我们希望它能够为您的工作带来帮助。如果您对此感兴趣，欢迎加入我们的 [开发者社区](https://github.com/mushan0x0/AI0x0.com/discussions)，一起交流学习。
+AI 0x0 是一款由 [MuShan0x0](https://github.com/mushan0x0) 开发的闭源软件，该仓库仅用来发布版本、存放文档和收集问题，我们希望它能够为您的工作带来帮助。如果您对此感兴趣，欢迎加入我们的 [开发者社区](https://github.com/mushan0x0/AI0x0.com/discussions)，一起交流学习。
