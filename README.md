@@ -73,9 +73,13 @@ https://user-images.githubusercontent.com/29084441/236841065-db6fe6d1-a4c3-4128-
 
 https://user-images.githubusercontent.com/29084441/236848125-e701dc3b-ceb3-4d50-956d-21f29e744327.mp4
 
+**全局主题适配**
+
+https://user-images.githubusercontent.com/29084441/236856226-f9ccd522-064e-49b7-9ab2-b730b5f2963c.mp4
+
 </div>
 
-## 🪲 问题反馈
+## 🐞 问题反馈
 
 请前往 [Issues](https://github.com/mushan0x0/AI0x0.com/issues) 页面。
 
