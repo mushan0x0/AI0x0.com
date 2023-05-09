@@ -86,6 +86,10 @@ https://user-images.githubusercontent.com/29084441/236859882-e23bc8d1-05c4-4703-
 
 https://user-images.githubusercontent.com/29084441/236873637-297e3629-f398-45c2-b0ec-c7422aa8c12b.mp4
 
+**多模态内容生成**
+
+https://user-images.githubusercontent.com/29084441/236974359-a2ce9fe6-0938-47a1-bea3-8d760502bda3.mp4
+
 </div>
 
 ## 🐞 问题反馈
