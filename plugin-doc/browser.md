@@ -18,4 +18,11 @@
 
 [插件下载](https://github.com/mushan0x0/AI0x0.com/releases/download/edge-plugin-v1.0.0/edge-plugin-v1.0.0.zip)
 
+
+## Vivaldi 更新时间 2023-05-11 10:14
+
+[安装教程](https://www.jianshu.com/p/4f1fa54a5501)
+
+[插件下载](https://github.com/mushan0x0/AI0x0.com/releases/download/vivaldi-plugin-v1.0.0/vivaldi-plugin-v1.0.0.zip)
+
 ## 待更新...
