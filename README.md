@@ -51,15 +51,15 @@ AI 0x0 是一个桌面端的多模态多模型通用型AI生成助手应用，�
 
 目前 AI 0x0 支持以下几种模型：
 
-| 模型名称 | 联网搜索支持 | 语言模型 | 是否免费 | 是否支持多模态数据 | 是否需要翻墙 |
-| --- | --- | --- | --- | --- | --- |
-| Perplexity | 支持 | 未知 | 免费 | 不支持 | 是 |
-| ChatGPT | Plus用户支持 | GPT-3.5/GPT-4.0 | 免费/收费 | 不支持 | 是 |
-| PoeChat | 不支持 | GPT-3.5/GPT-4.0/Claude | 免费/收费 | 不支持 | 是 |
-| NewBing | 支持 | GPT-4.0 | 免费 | 支持 | 是 |
-| Chat0x0 | 支持 | GPT-3.5 | 免费/收费 | 支持 | 否 |
-| BaiChat | 不支持 | GPT-3.5 | 免费 | 不支持 | 是 |
-| 文心一言 | 不支持 | 文心一言 | 免费 | 支持 | 否 |
+| 名称 | 联网搜索支持 | 语言模型 | 是否免费 | 多模态 | 是否需要翻墙 | 截图 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Perplexity | 支持 | 未知 | 免费 | 不支持 | 是 | <img width="50" src="https://github.com/mushan0x0/AI0x0.com/assets/29084441/933f5221-f842-4b2b-955c-d1e6d78f6c8b"> |
+| ChatGPT | Plus用户支持 | GPT-3.5/GPT-4.0 | 免费/收费 | 不支持 | 是 | <img width="50" src="https://github.com/mushan0x0/AI0x0.com/assets/29084441/417a0793-6599-4b60-9e1a-9cb4a235017b"> |
+| PoeChat | 不支持 | GPT-3.5/GPT-4.0/Claude | 免费/收费 | 不支持 | 是 | <img width="50" src="https://github.com/mushan0x0/AI0x0.com/assets/29084441/63eba3b1-cd8e-4e65-b754-e60fb70e95d1"> |
+| NewBing | 支持 | GPT-4.0 | 免费 | 支持 | 是 | <img width="50" src="https://github.com/mushan0x0/AI0x0.com/assets/29084441/07d9c5c0-ce4f-479a-abbf-8e9cc30baa12"> |
+| Chat0x0 | 支持 | GPT-3.5 | 免费/收费 | 支持 | 否 | <img width="50" src="https://github.com/mushan0x0/AI0x0.com/assets/29084441/74db46c0-6de3-4932-ae4f-93d38bdad3e3"> |
+| BaiChat | 不支持 | GPT-3.5 | 免费 | 不支持 | 是 | <img width="50" src="https://github.com/mushan0x0/AI0x0.com/assets/29084441/84c56425-c4b9-4577-84d0-c681fb0bd43e"> |
+| 文心一言 | 不支持 | 文心一言 | 免费 | 支持 | 否 | <img width="50" src="https://github.com/mushan0x0/AI0x0.com/assets/29084441/e7615fe7-4946-46ea-bcc9-92cc2ea157ef"> |
 
 ## 🎬 功能演示视频
 
