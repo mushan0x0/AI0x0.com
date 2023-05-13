@@ -69,6 +69,10 @@ AI 0x0 是一个桌面端的多模态多模型通用型AI生成助手应用，�
 
 https://user-images.githubusercontent.com/29084441/236841065-db6fe6d1-a4c3-4128-b483-d4c5eddad6e6.mp4
 
+**任意应用查询**
+
+https://github.com/mushan0x0/AI0x0.com/assets/29084441/ce5aea3e-b629-4885-a5da-974cb9b95a11
+
 **切换应用不会干扰输入模式**
 
 https://github.com/mushan0x0/AI0x0.com/assets/29084441/96fbd38d-00e4-4d46-aa30-d880114035aa
