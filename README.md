@@ -42,7 +42,7 @@ AI 0x0 是一个桌面端的多模态多模型通用型AI生成助手应用，�
 - 🤖️ 语音助手，在设置里设置了语音语言和快捷键后可以通过语音跟 AI 交流
 - 🧩 应用插件，打通不同应用的内容壁垒，比如使用了浏览器插件后可以实现跟浏览器对话
 - 🪆 多模型，支持低成本随时适配市面上任意好用的语言模型
-- 🏞️ OCR 图片识别，将图片文字填充到输入框 (Mac: <kbd>⌥</kbd>+<kbd>E</kbd> Win: <kbd>Alt</kbd>+<kbd>3</kbd>)
+- 🏞️ 识别能力，发送截图给 Chat0x0 进行对话 (Mac: <kbd>⌥</kbd>+<kbd>E</kbd> Win: <kbd>Alt</kbd>+<kbd>3</kbd>)
 - 🌓 针对每个语言模型适配亮色和黑色主题
 - 🥳 承诺永久免费开放除 Chat0x0 以外的语言模型 (Chat0x0 填 key 可免费)
 
@@ -77,6 +77,10 @@ https://github.com/mushan0x0/AI0x0.com/assets/29084441/ce5aea3e-b629-4885-a5da-9
 
 https://github.com/mushan0x0/AI0x0.com/assets/29084441/96fbd38d-00e4-4d46-aa30-d880114035aa
 
+**发送截图给 Chat0x0 使用识图能力**
+
+https://github.com/mushan0x0/AI0x0.com/assets/29084441/fdb4b183-873f-49cb-b3b3-0a97e70d3442
+  
 **鼠标随航查询和输入**
 
 https://user-images.githubusercontent.com/29084441/236848125-e701dc3b-ceb3-4d50-956d-21f29e744327.mp4
