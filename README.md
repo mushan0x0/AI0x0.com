@@ -21,7 +21,7 @@ AI 0x0 是一个桌面端的多模态多模型通用型AI生成助手应用，�
 
 您可以从 [GitHub Releases](https://github.com/mushan0x0/AI0x0.com/releases) 页面下载 AI 0x0 的最新版本，目前只支持 mac 端和 win 端。
 
-下载完成后，根据不同平台进行相应的安装即可。
+下载完成后，根据不同平台进行相应的安装即可，你还可以点击[查看使用教程](https://github.com/mushan0x0/AI0x0.com/wiki)。
 
 ## ✨ 特性
 
