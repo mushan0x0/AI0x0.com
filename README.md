@@ -7,7 +7,7 @@
     <a href="https://github.com/mushan0x0/AI0x0.com/releases"><img src="https://img.shields.io/github/v/release/mushan0x0/AI0x0.com"></a>
     <a href="https://github.com/mushan0x0/AI0x0.com"><img src="https://img.shields.io/github/downloads/mushan0x0/AI0x0.com/total"></a>
     <img alt="Windows" src="https://img.shields.io/badge/OS-Windows-informational?style=flat&amp;logo=windows&amp;logoColor=white&amp;color=2bbc8a"/>
-    <img alt="macOS" src="https://img.shields.io/badge/OS-macOS-informational?style=flat&amp;logo=apple&amp;logoColor=white&amp;color=2bbc8a"/>
+    <img alt="macOS" src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&amp;logo=apple&amp;logoColor=white&amp;color=2bbc8a"/>
   </p>
 </div>
 
