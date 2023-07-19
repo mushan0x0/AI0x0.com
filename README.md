@@ -55,7 +55,7 @@ AI 0x0 是一个桌面端的多模态多模型通用型AI生成助手应用，�
 
 | 名称 | 联网搜索支持 | 语言模型 | 是否免费 | 多模态 | 是否需要翻墙 | 截图 |
 | --- | --- | --- | --- | --- | --- | --- |
-| Claude 2 | 不支持 | Claude 200k | 免费 | 支持 | 是 | <img width="50" src="https://github.com/mushan0x0/AI0x0.com/assets/29084441/31fa649d-f07c-4dc6-aa75-1be20c7dd028"> |
+| Claude 2 | 不支持 | Claude 100k | 免费 | 支持 | 是 | <img width="50" src="https://github.com/mushan0x0/AI0x0.com/assets/29084441/31fa649d-f07c-4dc6-aa75-1be20c7dd028"> |
 | Perplexity | 支持 | 未知 | 免费 | 不支持 | 是 | <img width="50" src="https://github.com/mushan0x0/AI0x0.com/assets/29084441/933f5221-f842-4b2b-955c-d1e6d78f6c8b"> |
 | ChatGPT | Plus用户支持 | GPT-3.5/GPT-4.0 | 免费/收费 | 不支持 | 是 | <img width="50" src="https://github.com/mushan0x0/AI0x0.com/assets/29084441/417a0793-6599-4b60-9e1a-9cb4a235017b"> |
 | PoeChat | 不支持 | GPT-3.5/GPT-4.0/Claude | 免费/收费 | 不支持 | 是 | <img width="50" src="https://github.com/mushan0x0/AI0x0.com/assets/29084441/63eba3b1-cd8e-4e65-b754-e60fb70e95d1"> |
