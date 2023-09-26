@@ -1,5 +1,5 @@
 ### 📺 部分功能展示的视频 `2023-09-26`
-这个视频展示了部分预设功能的使用 💪 ，只是 AI0x0 功能的冰山一角，使用自定义预设还可以自己实现功能 🧩 哦。
+这个视频展示了部分预设功能的使用 💪 ，只是 AI0x0 功能的冰山一角，使用自定义预设 🧩 还可以自己实现功能哦。
 
 <iframe src="https://player.bilibili.com/player.html?aid=831420319&bvid=BV1z34y1A7bG&cid=1279682951&p=1&muted=true" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe>
 
