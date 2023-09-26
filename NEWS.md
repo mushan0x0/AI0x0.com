@@ -2,6 +2,9 @@
 
 这个视频展示了部分预设功能的使用，内容比较多💪，并且还只是 AI0x0 功能的冰山一角，使用自定义预设还可以自定义功能哦。
 
+<iframe src="//player.bilibili.com/player.html?aid=375588815&bvid=BV1z34y1A7bG&cid=339262048&page=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe>
+
+
 ### 🌐 全面提升访问速度！`2023-09-24`
 
 最近我们花了点功夫，全面迁移到了新的服务器，现在的访问速度简直是秒进！🤩
