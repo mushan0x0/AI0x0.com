@@ -54,6 +54,7 @@ https://github.com/user-attachments/assets/bc7770e2-4bea-47d3-a1b1-2e0b26ed9470
 - 📰 联网图文生成，通过文章主题联网搜索相关信息和图片，自动生成图文并茂的内容
 - 🏞️ 识图能力，发送截图给 Chat0x0 进行对话 (Mac: <kbd>⌥</kbd>+<kbd>E</kbd> Win: <kbd>Alt</kbd>+<kbd>3</kbd>)
 - 🌈 毛玻璃界面，原生应用优雅的体验
+- 👕 多外观，支持多个外观切换，包括显示 live2d 模型的能力（由于版权，暂不支持自定义）
 - 🌓 针对每个语言模型适配亮色和黑色主题
 - 🥳 承诺永久免费开放除 Chat0x0 以外的语言模型 (Chat0x0 填 key 可免费)
 
