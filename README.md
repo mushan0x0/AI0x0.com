@@ -56,6 +56,11 @@ https://github.com/user-attachments/assets/bc7770e2-4bea-47d3-a1b1-2e0b26ed9470
 - 🌓 针对每个语言模型适配亮色和黑色主题
 - 🥳 承诺永久免费开放除 Chat0x0 以外的语言模型 (Chat0x0 填 key 可免费)
 
+## 👕 不同的界面外观
+
+| 亮色 | 暗色 | live2d |
+| --- | --- | --- |
+| <img width="200" alt="image" src="https://github.com/user-attachments/assets/9de68d24-e72c-4fa2-846a-d43984b4565c"> | <img width="200" alt="image" src="https://github.com/user-attachments/assets/2f065f48-d576-498f-b0b9-7fca952a1e8f"> | <img width="400" alt="image" src="https://github.com/user-attachments/assets/5a7e05ff-29e9-46f0-a9da-133acb6abaa4"> |
 
 ## 💪 支持多种模型
 
