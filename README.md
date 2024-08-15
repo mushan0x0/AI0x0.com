@@ -19,9 +19,11 @@ AI 0x0 是一个桌面端的多模态多模型通用型AI生成助手应用，�
 
 <div align="center">
   
-**💫 最新功能：实时字幕翻译**
+**💫 最新功能**
 
-https://github.com/user-attachments/assets/bc7770e2-4bea-47d3-a1b1-2e0b26ed9470
+| 实时字幕 | 全屏识别 |
+| --- | --- |
+| <video src="https://github.com/user-attachments/assets/411634e7-6848-431a-8430-9339a9537f9b"/> | <video src="https://github.com/user-attachments/assets/6364ec90-e5b9-4cc9-ba6c-161887a28a09"/>|
 
 </div>
 
