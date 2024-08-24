@@ -6,7 +6,7 @@
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/29084441/236773164-a00b65d3-06b6-42fb-898b-b77f5ad45247.png">
 
-安装成功后的插件样子
+安装成功后的插件样子.
 
 <img width="273" alt="image" src="https://github.com/mushan0x0/AI0x0.com/assets/29084441/08212eca-ff11-4774-b270-dbc1efb54da9">
 
