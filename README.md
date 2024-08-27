@@ -5,7 +5,6 @@
   <p>一个多模态多模型通用型的全能 AI 查询生成桌面悬浮助手应用，支持 MacOS 和 Windows，可在任意桌面软件使用 AI 能力。</p>
   <p>
     <a href="https://github.com/mushan0x0/AI0x0.com/releases"><img src="https://img.shields.io/github/v/release/mushan0x0/AI0x0.com"></a>
-    <a href="https://github.com/mushan0x0/AI0x0.com"><img src="https://img.shields.io/github/downloads/mushan0x0/AI0x0.com/total"></a>
     <img alt="Windows" src="https://img.shields.io/badge/OS-Windows-informational?style=flat&amp;logo=windows&amp;logoColor=white&amp;color=2bbc8a"/>
     <img alt="macOS" src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&amp;logo=apple&amp;logoColor=white&amp;color=2bbc8a"/>
   </p>
@@ -62,9 +61,9 @@ AI 0x0 是一个桌面端的多模态多模型通用型AI生成助手应用，�
 
 ## 👕 不同的界面外观
 
-| 亮色 | 暗色 | live2d |
+| 毛玻璃亮色 | 毛玻璃暗色 | live2d |
 | --- | --- | --- |
-| <img width="200" alt="image" src="https://github.com/user-attachments/assets/9de68d24-e72c-4fa2-846a-d43984b4565c"> | <img width="200" alt="image" src="https://github.com/user-attachments/assets/2f065f48-d576-498f-b0b9-7fca952a1e8f"> | <img width="400" alt="image" src="https://github.com/user-attachments/assets/5a7e05ff-29e9-46f0-a9da-133acb6abaa4"> |
+| <img width="278" alt="image" src="https://github.com/user-attachments/assets/2eb58742-caa6-4d33-bac2-4d508d85ea46"> | <img width="280" alt="image" src="https://github.com/user-attachments/assets/e770ef5b-f212-4f62-9481-c18fbe61c7f8"> | <img width="400" alt="image" src="https://github.com/user-attachments/assets/5a7e05ff-29e9-46f0-a9da-133acb6abaa4"> |
 
 ## 💪 支持多种模型
 
