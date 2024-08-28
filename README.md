@@ -63,7 +63,7 @@ AI 0x0 是一个桌面端的多模态多模型通用型AI生成助手应用，�
 
 | 毛玻璃亮色 | 毛玻璃暗色 | live2d |
 | --- | --- | --- |
-| <img width="278" alt="image" src="https://github.com/user-attachments/assets/2eb58742-caa6-4d33-bac2-4d508d85ea46"> | <img width="280" alt="image" src="https://github.com/user-attachments/assets/e770ef5b-f212-4f62-9481-c18fbe61c7f8"> | <img width="400" alt="image" src="https://github.com/user-attachments/assets/5a7e05ff-29e9-46f0-a9da-133acb6abaa4"> |
+| <img width="278" alt="image" src="https://github.com/user-attachments/assets/2eb58742-caa6-4d33-bac2-4d508d85ea46"> | <img width="280" alt="image" src="https://github.com/user-attachments/assets/e770ef5b-f212-4f62-9481-c18fbe61c7f8"> | <img width="386" alt="image" src="https://github.com/user-attachments/assets/c39ec815-ee86-47d5-9525-baf91407dc7a"> |
 
 ## 💪 支持多种模型
 
