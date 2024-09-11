@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="200" src="https://ai0x0-track.oss-cn-beijing.aliyuncs.com/medias/logo.png?site">
+  <img width="200" src="https://github.com/user-attachments/assets/edfff1a4-05a7-43b7-8ece-b9ba171451ad">
   <h1>AI 0x0 🤖️</h1>
   <p>一个多模态多模型通用型的全能 AI 查询生成桌面悬浮助手应用，支持 MacOS 和 Windows，可在任意桌面软件使用 AI 能力。</p>
   <p>
